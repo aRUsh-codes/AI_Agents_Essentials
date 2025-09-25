@@ -3,3 +3,8 @@ __pycache__
 logging/__pycache__
 
 alembictut
+
+.env
+
+example.env
+
