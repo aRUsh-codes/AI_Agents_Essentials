@@ -8,3 +8,11 @@ Tools, concepts and tech that you'll need to learn before building high-grade AI
 - PyTest
 - Alchemy
 - RAG
+    - with POSTGRESQL
+    - from scratch
+        - Query Transformation
+        - Routing
+        - Query Construction
+        - Indexing
+        - Retrieval
+        - CRAG, ActiveRAG
